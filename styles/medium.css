@@ -2,8 +2,17 @@
     h1{
         font-size: 2.4rem;  
     }
+
+    h2{
+        font-size: 1.5rem;  
+    }
+
+    header, footer {
+        border-radius: 10px;
+    }
+
     header img {
-        box-shadow: 5px 10px 15px #999;
+        box-shadow: 5px 10px 15px #2b1a1a;
         float: right;
         border-radius: 0 10px 0 0;
     }

@@ -1,5 +1,5 @@
 body {
-    font-family: "Fira Sans", 'sans-serif'/*"Nunito", Arial, sans-serif*/;
+    font-family: 'Roboto Mono', 'sans-serif'/*"Nunito", Arial, sans-serif*/;
     font-size: 16pt;
 }
 
@@ -16,6 +16,7 @@ header {
 
 
 header img {
+    
     width: 200px;
     height: auto;
 
@@ -26,9 +27,9 @@ h1 {
     color: black;
     text-align: center;
 }
-footer {
+footer  {
     background-color: cadetblue;
-    font-family: "Montserrat", 'serif'/*"Exo", Times New Roman, sans-serif*/;
+    font-family: "Montserrat", 'serif' /*"Exo", "Times New Roman", "sans-serif"*/;
     text-align: center;
     padding: 1.9em;
 }
